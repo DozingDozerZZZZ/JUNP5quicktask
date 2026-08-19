@@ -1,0 +1,4 @@
+repository "P7JunAvoid(QuickTask)/P7JunAvoid(QuickTask)@20067520928980@cloud"
+  path "/"
+    br "/main"
+    co "/main"
